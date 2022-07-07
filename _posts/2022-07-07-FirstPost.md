@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FirstPost
+title: First (Past) the Post
 ---
 
 And so it begins.
