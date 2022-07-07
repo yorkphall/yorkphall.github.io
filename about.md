@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am Professor Patrick Hall at the Department of Physics & Astronomy at York University in Toronto, Canada.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am American by birth, Canadian by parentage, and 99.7% chimpanzee by DNA.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yorkphall@gmail.com](mailto:yorkphall@gmail.com)
